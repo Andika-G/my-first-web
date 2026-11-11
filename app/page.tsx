@@ -92,7 +92,7 @@ export default function Home() {
         {/* Bagian Tombol Aksi */}
         <div className="flex flex-wrap gap-3">
           <a
-            href="https://github.com"
+            href="https://github.com/Andika-G"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-emerald-500 hover:bg-emerald-600 text-slate-950 font-semibold px-5 py-2.5 rounded-xl transition"
